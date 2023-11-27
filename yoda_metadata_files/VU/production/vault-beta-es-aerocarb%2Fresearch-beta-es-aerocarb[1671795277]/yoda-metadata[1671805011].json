@@ -1,0 +1,100 @@
+{
+    "links": [
+        {
+            "rel": "describedby", 
+            "href": "https://yoda.uu.nl/schemas/default-2/metadata.json"
+        }
+    ], 
+    "Discipline": [
+        "Natural Sciences - Earth and related environmental sciences (1.5)"
+    ], 
+    "Language": "en - English", 
+    "Collected": {}, 
+    "Covered_Period": {}, 
+    "Tag": [
+        "CO2"
+    ], 
+    "Related_Datapackage": [
+        {
+            "Persistent_Identifier": {}
+        }
+    ], 
+    "Retention_Period": 10, 
+    "Data_Type": "Dataset", 
+    "Funding_Reference": [
+        {
+            "Funder_Name": "ESA", 
+            "Award_Number": "ESA ITT: RFP/3-14860/17/NL/FF/gp"
+        }
+    ], 
+    "Creator": [
+        {
+            "Name": {
+                "Given_Name": "Sander", 
+                "Family_Name": "Houweling"
+            }, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "0000-0002-6189-1009"
+                }
+            ]
+        }, 
+        {
+            "Name": {
+                "Given_Name": "Jochen", 
+                "Family_Name": "Landgraf"
+            }, 
+            "Affiliation": [
+                "SRON Netherlands Institute for Space Research"
+            ], 
+            "Person_Identifier": [
+                {}
+            ]
+        }, 
+        {
+            "Name": {
+                "Given_Name": "Hein", 
+                "Family_Name": "van Heck"
+            }, 
+            "Affiliation": [
+                "SRON Netherlands Institute for Space Research"
+            ], 
+            "Person_Identifier": [
+                {}
+            ]
+        }, 
+        {
+            "Name": {
+                "Given_Name": "Wei", 
+                "Family_Name": "Tao"
+            }, 
+            "Affiliation": [
+                "Max-Planck-Institute for Chemistry, Mainz, Germany"
+            ], 
+            "Person_Identifier": [
+                {}
+            ]
+        }
+    ], 
+    "Contributor": [
+        {
+            "Name": {}, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {}
+            ]
+        }
+    ], 
+    "Data_Access_Restriction": "Open - freely retrievable", 
+    "Title": "AeroCarb output archive", 
+    "Description": "This archive is the central location for distributing information about the ESA AeroCarb scientific support study for the Copernicus CO2-M monitoring system (CO2-M). In subdirectories you find the deliverable reports, underlying data as well as computer codes that were used for data processing.\n\n", 
+    "Version": "1", 
+    "License": "Creative Commons Attribution 4.0 International Public License", 
+    "Data_Classification": "Public"
+}

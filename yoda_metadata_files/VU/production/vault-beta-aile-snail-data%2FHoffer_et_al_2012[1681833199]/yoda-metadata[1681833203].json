@@ -1,0 +1,78 @@
+{
+    "links": [
+        {
+            "rel": "describedby", 
+            "href": "https://yoda.uu.nl/schemas/default-2/metadata.json"
+        }
+    ], 
+    "Discipline": [
+        "Natural Sciences - Biological sciences (1.6)"
+    ], 
+    "Language": "en - English", 
+    "Collected": {}, 
+    "Covered_Period": {}, 
+    "Tag": [
+        "copulation", 
+        "insemination", 
+        "investment", 
+        "Lymnaea stagnalis", 
+        "pond snail", 
+        "promisquity", 
+        "reproduction", 
+        "seminal fluid", 
+        "sex allocation", 
+        "sexual selection"
+    ], 
+    "Related_Datapackage": [
+        {
+            "Persistent_Identifier": {
+                "Identifier_Scheme": "DOI", 
+                "Identifier": "http://dx.doi.org/10.1016/j.anbehav.2012.06.002"
+            }, 
+            "Relation_Type": "IsSupplementTo: Current datapackage is supplement to", 
+            "Title": "Hoffer, J.N.A., Schwegler, D., Ellers, J. & Koene, J.M. 2012. Mating rate influences female reproductive investment in a simultaneous hermaphrodite, Lymnaea stagnalis. Animal Behaviour 84: 523-529"
+        }
+    ], 
+    "Retention_Period": 10, 
+    "Data_Type": "Dataset", 
+    "Funding_Reference": [
+        {
+            "Funder_Name": "NWO", 
+            "Award_Number": "816.01.009"
+        }
+    ], 
+    "Creator": [
+        {
+            "Name": {
+                "Given_Name": "Joris", 
+                "Family_Name": "Koene"
+            }, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "0000-0001-8188-3439"
+                }
+            ]
+        }
+    ], 
+    "Contributor": [
+        {
+            "Name": {}, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {}
+            ]
+        }
+    ], 
+    "Data_Access_Restriction": "Open - freely retrievable", 
+    "Title": "Mating rate influences female reproductive investment in a simultaneous hermaphrodite, Lymnaea stagnalis", 
+    "Description": "The dataset contains the data used to analyse the result of the study \"Mating rate influences female reproductive investment in a simultaneous hermaphrodite, Lymnaea stagnalis\" by Hoffer, Schwegler, Ellers and Koene, published in 2012 in Animal Behaviour 84: 523-529.\n", 
+    "Version": "1.0", 
+    "Data_Classification": "Public", 
+    "License": "Creative Commons Attribution 4.0 International Public License"
+}

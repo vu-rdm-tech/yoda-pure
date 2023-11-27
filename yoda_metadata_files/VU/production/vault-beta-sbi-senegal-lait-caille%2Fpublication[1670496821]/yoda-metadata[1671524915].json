@@ -1,0 +1,123 @@
+{
+    "links": [
+        {
+            "rel": "describedby", 
+            "href": "https://yoda.uu.nl/schemas/default-2/metadata.json"
+        }
+    ], 
+    "Discipline": [
+        "Natural Sciences - Biological sciences (1.6)"
+    ], 
+    "Language": "en - English", 
+    "Collected": {
+        "Start_Date": "2018-04-30", 
+        "End_Date": "2018-09-21"
+    }, 
+    "Covered_Geolocation_Place": [
+        ""
+    ], 
+    "Covered_Period": {}, 
+    "Tag": [
+        "Lactococcus", 
+        "Lactobacillus", 
+        "Streptococcus", 
+        "Fermentation", 
+        "Milk"
+    ], 
+    "Related_Datapackage": [
+        {
+            "Persistent_Identifier": {
+                "Identifier_Scheme": "DOI", 
+                "Identifier": "10.3389/fmicb.2018.02218"
+            }, 
+            "Relation_Type": "IsSupplementTo: Current datapackage is supplement to", 
+            "Title": "Naturally fermented milk from northern Senegal: Bacterial community composition and probiotic enrichment with Lactobacillus rhamnosus"
+        }
+    ], 
+    "Retention_Period": 10, 
+    "Data_Type": "Dataset", 
+    "Funding_Reference": [
+        {
+            "Funder_Name": "Bill & Melinda Gates Foundation", 
+            "Award_Number": "OPP1110874"
+        }
+    ], 
+    "Creator": [
+        {
+            "Name": {
+                "Given_Name": "Douwe", 
+                "Family_Name": "Molenaar"
+            }, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "0000-0001-7108-4545"
+                }, 
+                {
+                    "Name_Identifier_Scheme": "ResearcherID (Web of Science)", 
+                    "Name_Identifier": "D-2017-2010"
+                }
+            ]
+        }
+    ], 
+    "Contributor": [
+        {
+            "Name": {
+                "Given_Name": "Remco", 
+                "Family_Name": "Kort"
+            }, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam", 
+                "TNO, Microbiology and Systems Biology, Amsterdam, The Netherlands", 
+                "ARTIS-Micropia, Amsterdam, The Netherlands", 
+                "Yoba for Life foundation, Amsterdam, The Netherlands"
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "0000-0003-3674-598X"
+                }
+            ], 
+            "Contributor_Type": "ProjectLeader"
+        }, 
+        {
+            "Name": {
+                "Given_Name": "Douwe", 
+                "Family_Name": "Molenaar"
+            }, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "0000-0001-7108-4545"
+                }
+            ], 
+            "Contributor_Type": "Researcher"
+        }, 
+        {
+            "Name": {
+                "Given_Name": "Abdoulaye", 
+                "Family_Name": "Diallo"
+            }, 
+            "Affiliation": [
+                "Department of Sociology, Université Cheikh Anta Diop de Dakar, Dakar, Senegal"
+            ], 
+            "Person_Identifier": [
+                {}
+            ], 
+            "Contributor_Type": "Researcher"
+        }
+    ], 
+    "Data_Access_Restriction": "Open - freely retrievable", 
+    "Title": "Naturally Fermented Milk from Northern Senegal", 
+    "Description": "Characterization of the bacterial community composition of a naturally fermented milk product (lait caillé), prepared in wooden bowls (lahals) in northern Senegal, which is produced with a bacterial biofilm to steer the fermentation process. A probiotic starter culture containing the most documented probiotic strain Lactobacillus rhamnosus GG (generic strain name yoba 2012) was included into the local fermentation process.", 
+    "Version": "1.0", 
+    "Data_Classification": "Public", 
+    "Collection_Name": "Microbial community composition of Lait-Caille", 
+    "License": "Creative Commons Attribution 4.0 International Public License"
+}

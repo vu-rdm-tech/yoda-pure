@@ -1,0 +1,71 @@
+{
+    "links": [
+        {
+            "rel": "describedby", 
+            "href": "https://yoda.uu.nl/schemas/default-2/metadata.json"
+        }
+    ], 
+    "Discipline": [
+        "Natural Sciences - Biological sciences (1.6)"
+    ], 
+    "Language": "en - English", 
+    "Collected": {}, 
+    "Covered_Period": {}, 
+    "Tag": [
+        "gastropod", 
+        "Lymnaea", 
+        "mollusc", 
+        "reproduction", 
+        "sex role", 
+        "snail"
+    ], 
+    "Related_Datapackage": [
+        {
+            "Persistent_Identifier": {
+                "Identifier_Scheme": "DOI", 
+                "Identifier": "10.1016/j.anbehav.2023.04.011"
+            }, 
+            "Relation_Type": "IsSupplementTo: Current datapackage is supplement to", 
+            "Title": "Mating motivation: the effect of eliminating the male function on sexual behaviour in a simultaneous hermaphrodite"
+        }
+    ], 
+    "Retention_Period": 10, 
+    "Data_Type": "Dataset", 
+    "Funding_Reference": [
+        {}
+    ], 
+    "Creator": [
+        {
+            "Name": {
+                "Given_Name": "Joris", 
+                "Family_Name": "Koene"
+            }, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier": "0000-0001-8188-3439", 
+                    "Name_Identifier_Scheme": "ORCID"
+                }
+            ]
+        }
+    ], 
+    "Contributor": [
+        {
+            "Name": {}, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {}
+            ]
+        }
+    ], 
+    "Data_Access_Restriction": "Open - freely retrievable", 
+    "Title": "Mating motivation: the effect of eliminating the male function on sexual behaviour in a simultaneous hermaphrodite", 
+    "Description": "The dataset contains the data used to analyse the result of the study \"Mating motivation: the effect of eliminating the male function on sexual behaviour in a simultaneous hermaphrodite\" by Palmeira, Nakadera and Koene, accepted for publication in Animal Behaviour in 2023.", 
+    "Data_Classification": "Public", 
+    "License": "Creative Commons Attribution 4.0 International Public License", 
+    "Version": "1.0"
+}

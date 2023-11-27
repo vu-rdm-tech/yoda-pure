@@ -1,0 +1,79 @@
+{
+    "links": [
+        {
+            "rel": "describedby", 
+            "href": "https://yoda.uu.nl/schemas/default-2/metadata.json"
+        }
+    ], 
+    "Discipline": [
+        "Natural Sciences - Biological sciences (1.6)"
+    ], 
+    "Language": "en - English", 
+    "Collected": {
+        "Start_Date": "2022-03-31", 
+        "End_Date": "2022-06-16"
+    }, 
+    "Covered_Geolocation_Place": [
+        "Amsterdam"
+    ], 
+    "Covered_Period": {}, 
+    "Tag": [
+        "Global warming", 
+        "Fertility", 
+        "Snail", 
+        "Physiology ", 
+        "Reproduction "
+    ], 
+    "Related_Datapackage": [
+        {
+            "Persistent_Identifier": {}
+        }
+    ], 
+    "Retention_Period": 10, 
+    "Data_Type": "Dataset", 
+    "Funding_Reference": [
+        {}
+    ], 
+    "Creator": [
+        {
+            "Name": {
+                "Given_Name": "Yumi", 
+                "Family_Name": "Nakadera"
+            }, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "0000-0002-6342-4586"
+                }
+            ]
+        }
+    ], 
+    "Contributor": [
+        {
+            "Name": {
+                "Given_Name": "Joris", 
+                "Family_Name": "Koene"
+            }, 
+            "Affiliation": [
+                "Vrije Universiteit Amsterdam"
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "0000-0001-8188-3439"
+                }
+            ], 
+            "Contributor_Type": "Supervisor"
+        }
+    ], 
+    "Data_Access_Restriction": "Open - freely retrievable", 
+    "Title": "Data from 'Sublethal heat reduces overall reproductive investment and male allocation in a hermaphroditic snail species' ", 
+    "Description": "It has been well established that exposure to sub-lethal temperature affects reproductive performances in diverse organisms. Although this effect has been particularly emphasised in males or male functions, it remains to firmly demonstrated that the effect of heat on fertility is sex-specific. To contribute to the testing of this hypothesis, here we examined the impacts of sub-lethally high temperature on male and female functions in a simultaneously hermaphroditic snail species, Lymnaea stagnalis. We exposed snails to temperatures at 20, 24 and 28 ˚C for 14 days and quantified their growth, egg and sperm productions, sperm transfer, mating behaviour and sex allocation.", 
+    "Version": "1.0", 
+    "Data_Classification": "Public", 
+    "Collection_Name": "Yumi Nakadera", 
+    "License": "Creative Commons Attribution-ShareAlike 4.0 International Public License"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<v1:datasets xmlns:v1="v1.dataset.pure.atira.dk" xmlns:v3="v3.commons.pure.atira.dk">
+ <v1:dataset id="dataset1" type="dataset">
+  <v1:title>
+   Mating motivation: the effect of eliminating the male function on sexual behaviour in a simultaneous hermaphrodite
+  </v1:title>
+  <v1:description>
+   The dataset contains the data used to analyse the result of the study "Mating motivation: the effect of eliminating the male function on sexual behaviour in a simultaneous hermaphrodite" by Palmeira, Nakadera and Koene, accepted for publication in Animal Behaviour in 2023.
+  </v1:description>
+  <v1:persons/>
+  <v1:publisher>
+   Vrije Universiteit Amsterdam
+  </v1:publisher>
+  <v1:openAccess>
+   Open - freely retrievable
+  </v1:openAccess>
+  <v1:keywords>
+   <v1:keyword>
+    gastropod
+   </v1:keyword>
+   <v1:keyword>
+    Lymnaea
+   </v1:keyword>
+   <v1:keyword>
+    mollusc
+   </v1:keyword>
+   <v1:keyword>
+    reproduction
+   </v1:keyword>
+   <v1:keyword>
+    sex role
+   </v1:keyword>
+   <v1:keyword>
+    snail
+   </v1:keyword>
+  </v1:keywords>
+ </v1:dataset>
+</v1:datasets>

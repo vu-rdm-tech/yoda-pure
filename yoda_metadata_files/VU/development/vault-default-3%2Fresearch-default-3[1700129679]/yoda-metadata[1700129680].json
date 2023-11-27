@@ -1,0 +1,124 @@
+{
+    "links": [
+        {
+            "rel": "describedby", 
+            "href": "https://yoda.uu.nl/schemas/default-3/metadata.json"
+        }
+    ], 
+    "Discipline": [
+        "Natural Sciences - Physical sciences (1.3)"
+    ], 
+    "Language": "en - English", 
+    "Covered_Geolocation_Place": [
+        "Leiden", 
+        "Amsterdam"
+    ], 
+    "Keyword": [
+        "powerpoint", 
+        "presentation", 
+        "dummy"
+    ], 
+    "Related_Resource": [
+        {
+            "Relation_Type": "Continues", 
+            "Title": "Naturally Fermented Milk from Northern Senegal", 
+            "Persistent_Identifier": {
+                "Identifier_Scheme": "DOI", 
+                "Identifier": "https://doi.org/10.48338/vu01-2lt5v4"
+            }
+        }, 
+        {
+            "Relation_Type": "IsVersionOf", 
+            "Title": "Pinkeltje in Amerika", 
+            "Persistent_Identifier": {
+                "Identifier_Scheme": "ISBN", 
+                "Identifier": "1234567890"
+            }
+        }
+    ], 
+    "Retention_Period": 11, 
+    "Data_Type": "Dataset", 
+    "Funding_Reference": [
+        {
+            "Funder_Name": "NWO", 
+            "Award_Number": "12345"
+        }, 
+        {
+            "Funder_Name": "EC", 
+            "Award_Number": "67890"
+        }
+    ], 
+    "Creator": [
+        {
+            "Name": {
+                "Given_Name": "Peter", 
+                "Family_Name": "Vos"
+            }, 
+            "Affiliation": [
+                {
+                    "Affiliation_Name": "Vrije Universiteit Amsterdam", 
+                    "Affiliation_Identifier": "https://ror.org/008xxew50"
+                }
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "https://orcid.org/0000-0002-5131-9340"
+                }
+            ]
+        }, 
+        {
+            "Name": {
+                "Given_Name": "Dimitri", 
+                "Family_Name": "Unger"
+            }, 
+            "Affiliation": [
+                {
+                    "Affiliation_Name": "Vrije Universiteit Amsterdam", 
+                    "Affiliation_Identifier": "https://ror.org/008xxew50"
+                }
+            ], 
+            "Person_Identifier": [
+                {}
+            ]
+        }
+    ], 
+    "Contributor": [
+        {
+            "Affiliation": [
+                {
+                    "Affiliation_Name": "Utrecht University", 
+                    "Affiliation_Identifier": "https://ror.org/04pp8hn57"
+                }
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "Author identifier (Scopus)", 
+                    "Name_Identifier": "78652418514"
+                }
+            ], 
+            "Name": {
+                "Given_Name": "Erik", 
+                "Family_Name": "Hakvoort"
+            }, 
+            "Contributor_Type": "ProjectLeader"
+        }
+    ], 
+    "Data_Access_Restriction": "Restricted - available upon request", 
+    "License": "Custom", 
+    "Title": "My presentations", 
+    "Description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel sapien blandit, lobortis lorem nec, fringilla orci. Pellentesque ultrices metus a nunc ultricies, vitae porttitor sem consequat. Vivamus et erat iaculis, posuere justo a, pulvinar ligula. Praesent sem dui, gravida et elementum non, tincidunt at justo. Quisque ac lorem quam. Nullam sodales nisl eget erat porta, quis fermentum risus elementum. Quisque eu lacinia elit, ac auctor ligula.\n\nQuisque eu hendrerit urna. Phasellus vitae quam justo. Curabitur pellentesque porttitor ipsum, vel facilisis arcu tempor quis. Mauris congue in arcu vel ultrices. Aenean eget imperdiet libero. Integer erat nulla, commodo quis convallis nec, ornare eget sapien. Integer a nisl erat. Suspendisse potenti. Nullam hendrerit ante in nunc sodales vestibulum. Nulla finibus gravida justo, quis consectetur nisi gravida et. Nunc aliquam erat ornare ipsum luctus auctor. Aenean et congue dui, in ultrices elit. Phasellus vestibulum efficitur ex, et maximus lacus aliquam luctus. Nunc lacinia nulla nunc, vitae elementum elit vestibulum a. ", 
+    "Version": "1", 
+    "Collected": {
+        "Start_Date": "2023-11-13", 
+        "End_Date": "2023-11-24"
+    }, 
+    "Covered_Period": {
+        "Start_Date": "2023-10-01", 
+        "End_Date": "2023-10-31"
+    }, 
+    "Retention_Information": "11 is a better number", 
+    "Embargo_End_Date": "2023-12-28", 
+    "Data_Classification": "Sensitive", 
+    "Collection_Name": "My life's work"
+}
