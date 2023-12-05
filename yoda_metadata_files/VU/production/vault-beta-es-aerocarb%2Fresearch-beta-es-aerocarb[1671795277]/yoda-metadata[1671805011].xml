@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <v1:datasets xmlns:v1="v1.dataset.pure.atira.dk" xmlns:v3="v3.commons.pure.atira.dk">
- <v1:dataset id="dataset1" type="dataset">
-  <v1:title>
-   AeroCarb output archive
-  </v1:title>
-  <v1:description>
-   This archive is the central location for distributing information about the ESA AeroCarb scientific support study for the Copernicus CO2-M monitoring system (CO2-M). In subdirectories you find the deliverable reports, underlying data as well as computer codes that were used for data processing.
-  </v1:description>
-  <v1:persons/>
-  <v1:publisher>
-   Vrije Universiteit Amsterdam
-  </v1:publisher>
-  <v1:openAccess>
-   Open - freely retrievable
-  </v1:openAccess>
-  <v1:keywords>
-   <v1:keyword>
-    CO2
-   </v1:keyword>
-  </v1:keywords>
- </v1:dataset>
+<v1:dataset id="dataset1" type="dataset">
+<v1:title>AeroCarb output archive</v1:title><v1:description>This archive is the central location for distributing information about the ESA AeroCarb scientific support study for the Copernicus CO2-M monitoring system (CO2-M). In subdirectories you find the deliverable reports, underlying data as well as computer codes that were used for data processing.
+
+</v1:description><v1:persons><v1:person contactPerson="true" id="person0"><v1:person><v1:firstName>Sander</v1:firstName><v1:lastName>Houweling</v1:lastName></v1:person><v1:role>creator</v1:role></v1:person><v1:person id="person1"><v1:person origin="external"><v1:firstName>Jochen</v1:firstName><v1:lastName>Landgraf</v1:lastName></v1:person><v1:organisations><v1:organisation><v1:name>SRON Netherlands Institute for Space Research</v1:name></v1:organisation></v1:organisations><v1:role>creator</v1:role></v1:person><v1:person id="person2"><v1:person origin="external"><v1:firstName>Hein</v1:firstName><v1:lastName>van Heck</v1:lastName></v1:person><v1:organisations><v1:organisation><v1:name>SRON Netherlands Institute for Space Research</v1:name></v1:organisation></v1:organisations><v1:role>creator</v1:role></v1:person><v1:person id="person3"><v1:person origin="external"><v1:firstName>Wei</v1:firstName><v1:lastName>Tao</v1:lastName></v1:person><v1:organisations><v1:organisation><v1:name>Max-Planck-Institute for Chemistry, Mainz, Germany</v1:name></v1:organisation></v1:organisations><v1:role>creator</v1:role></v1:person></v1:persons><v1:managingOrganisation lookupId="VU"/><v1:availableDate><v3:year>2023</v3:year></v1:availableDate><v1:publisher><v1:name>Vrije Universiteit Amsterdam</v1:name></v1:publisher><v1:openAccess>Open</v1:openAccess><v1:keywords><v1:keyword>CO2</v1:keyword></v1:keywords><v1:license>CreativeCommonsAttribution4.0InternationalPublicLicense</v1:license></v1:dataset>
 </v1:datasets>
