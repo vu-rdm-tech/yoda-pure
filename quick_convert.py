@@ -4,6 +4,7 @@ import os
 import glob
 from datetime import datetime
 import lxml
+import pretty
 
 INTERNAL_AFFILIATION_NAME = 'Vrije Universiteit Amsterdam'
 
@@ -69,7 +70,7 @@ def convert_to_dataset_xml(data, root):
     # links - ? relations ? (The links to the dataset)
     
     # license - license (The license of the dataset)
-    root.append(get_license(data))
+    root.append(get_license(data)) # TO DO needs to match '[^\p{C}\{Z}]]'
 
     # documents - NA
     
@@ -99,7 +100,7 @@ def get_availableDate(data):
 
 def get_license(data):	
     tag = soup.new_tag('v1:license')
-    tag.string = data['License'].replace(" ", "") # TODO needs mapping, no spaces allowed, so like CC-BY-4.0.	
+    tag.string = data['License'] # TODO needs to match Pure token
     return tag
 
 
@@ -323,10 +324,6 @@ for json_file in json_files:
     with open(json_file) as file:
         data = json.load(file)
         
-        # Perform your desired operations on the JSON data here
-        # For example, convert to XML using BeautifulSoup
-        
-        # Example code to convert JSON to XML using BeautifulSoup
         xml = """
             <v1:datasets xmlns:v1="v1.dataset.pure.atira.dk" xmlns:v3="v3.commons.pure.atira.dk">
                 <v1:dataset id="dataset1" type="dataset">
@@ -335,7 +332,6 @@ for json_file in json_files:
         """
         soup = BeautifulSoup(xml, features="xml")
         root = soup.find('v1:dataset')
-        print(root)
         convert_to_dataset_xml(data, root)
         
         # Save the XML data to a file
@@ -344,4 +340,5 @@ for json_file in json_files:
         with open(xml_file, 'w') as xml:
             #xml.write(str(pretty_xml))
             xml.write(str(soup))
+
         n += 1

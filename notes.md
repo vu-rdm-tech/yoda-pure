@@ -4,6 +4,8 @@
 ### `ids`
 _type attribute must be a token from the classification scheme /dk/atira/pure/dataset/datasetsources/dataset_
 - Alle ids behalve DOI? Hier de interne id van Yoda gebruiken (ben de naam even kwijt).
+### geographicalCoverage
+- Vraagt om een verplicht `id`, wat doet dit en wat moeten we daarmee?
 ### `persons`
 - Is er een plek voor de ROR?
 - Als `contactPerson` gebruik ik nu de eerste Yoda `creator`, dat lijkt mij ok.
